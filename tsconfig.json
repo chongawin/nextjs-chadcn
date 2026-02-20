@@ -19,7 +19,12 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@/src/*": ["./src/*"],
+      "@/shared/*": ["./src/shared/*"],
+      "@/frontend/*": ["./src/frontend/*"],
+      "@/payload/*": ["./src/payload/*"],
+      "@/payload-types": ["./payload-types.ts"]
     }
   },
   "include": [

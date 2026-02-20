@@ -1,0 +1,36 @@
+{
+  "home": {
+    "badge": "Next.js 16 + Payload CMS",
+    "hero": {
+      "title1": "สร้างเว็บแอปพลิเคชัน",
+      "title2": "ที่ทันสมัยและสวยงาม",
+      "description": "สถาปัตยกรรมแบบ Monolithic ที่ทันสมัย พร้อม Payload CMS, shadcn/ui และเทคโนโลยีล้ำสมัย"
+    },
+    "buttons": {
+      "browseCategories": "เรียกดูหมวดหมู่",
+      "viewProducts": "ดูสินค้า"
+    },
+    "features": {
+      "nextjs": {
+        "title": "Next.js 16",
+        "description": "ฟีเจอร์ล่าสุดพร้อม App Router, Server Components และ Turbopack เพื่อการพัฒนาที่รวดเร็ว"
+      },
+      "shadcn": {
+        "title": "shadcn/ui",
+        "description": "คอมโพเนนต์ที่สวยงามและใช้งานง่าย สร้างด้วย Radix UI และ Tailwind CSS"
+      },
+      "payload": {
+        "title": "Payload CMS",
+        "description": "Headless CMS ที่ทรงพลังพร้อม PostgreSQL, TypeScript และ API เต็มรูปแบบ"
+      }
+    },
+    "techStack": {
+      "title": "เทคโนโลยีที่ทันสมัย",
+      "description": "สร้างด้วยเทคโนโลยีล่าสุดและดีที่สุด"
+    },
+    "projectStructure": {
+      "title": "โครงสร้างโปรเจค",
+      "description": "สถาปัตยกรรมที่สะอาด ขยายได้ และบำรุงรักษาง่าย"
+    }
+  }
+}

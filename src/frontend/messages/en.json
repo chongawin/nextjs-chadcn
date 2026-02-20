@@ -1,0 +1,36 @@
+{
+  "home": {
+    "badge": "Next.js 16 + Payload CMS",
+    "hero": {
+      "title1": "Build Modern",
+      "title2": "Web Applications",
+      "description": "Modern monolithic architecture with Payload CMS, shadcn/ui and cutting-edge technologies"
+    },
+    "buttons": {
+      "browseCategories": "Browse Categories",
+      "viewProducts": "View Products"
+    },
+    "features": {
+      "nextjs": {
+        "title": "Next.js 16",
+        "description": "Latest features with App Router, Server Components and Turbopack for blazing fast development"
+      },
+      "shadcn": {
+        "title": "shadcn/ui",
+        "description": "Beautiful and accessible components built with Radix UI and Tailwind CSS"
+      },
+      "payload": {
+        "title": "Payload CMS",
+        "description": "Powerful headless CMS with PostgreSQL, TypeScript and full-featured API"
+      }
+    },
+    "techStack": {
+      "title": "Modern Tech Stack",
+      "description": "Built with the latest and greatest technologies"
+    },
+    "projectStructure": {
+      "title": "Project Structure",
+      "description": "Clean, scalable and maintainable architecture"
+    }
+  }
+}
